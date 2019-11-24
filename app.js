@@ -45,7 +45,7 @@ const checkAndUpdate = async () => {
       return;
     }
 
-    await updateDns(zone.id, dnsRecords.id, ipv4);
+    await updateDns(zone.id, dnsRecord.id, ipv4);
 
   } catch (err) {
     console.error(err);
