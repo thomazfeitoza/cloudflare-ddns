@@ -1,0 +1,9 @@
+{
+  "name": "cloudflare-ddns",
+  "version": "1.0.0",
+  "description": "A simple NodeJS application to allow dynamic ip addresses in Cloudflare's DNS records",
+  "dependencies": {
+    "cloudflare": "^2.7.0",
+    "public-ip": "^4.0.0"
+  }
+}
