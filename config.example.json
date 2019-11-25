@@ -1,5 +1,6 @@
 {
   "interval": 600,
+  "logLevel": "info",
   "cloudflare": {
     "token": "",
     "domain": ""
